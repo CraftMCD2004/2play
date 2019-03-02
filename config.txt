@@ -1,0 +1,6 @@
+token= NTUxNDkxNzgyNTA1MTM2MTM4.D1xwgA.CT4KVH7exxg5kcOyPQs8GGEM7ts
+owner= 515307827196067840
+prefix= 2
+game= Lord | 2play
+stayinchannel= true
+songinstatus= true
